@@ -1,0 +1,17 @@
+{
+  "name": "bb_status",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_status",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Status  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
